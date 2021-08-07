@@ -1,10 +1,1 @@
- Volume in drive E is New Volume
- Volume Serial Number is EABA-39CE
-
- Directory of E:\My Git Projects
-
-07-08-2021  19:23    <DIR>          .
-07-08-2021  19:23    <DIR>          ..
-07-08-2021  19:23                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  366,429,855,744 bytes free
+Change this file
